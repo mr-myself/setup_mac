@@ -37,4 +37,5 @@ Setup info for new mac device
 - Put dotfiles
   - https://github.com/mr-myself/dotfiles
   - Download "oh-my-zsh"
-
+- Put ssh config file
+  - https://bitbucket.org/mr-myself/ssh_config/overview
