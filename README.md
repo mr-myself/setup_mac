@@ -20,7 +20,7 @@ Setup info for new mac device
 - [ImageOptim](https://imageoptim.com/mac)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-**From App store **
+**From App store**
 - AfinityDesigner
 - AfinityPhoto
 - Magnet
