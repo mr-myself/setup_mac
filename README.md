@@ -19,6 +19,7 @@ Setup info for new mac device
 - [flux](https://justgetflux.com/)
 - [ImageOptim](https://imageoptim.com/mac)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Vagrant](https://www.vagrantup.com/downloads.html)
 
 **From App store**
 - AfinityDesigner
